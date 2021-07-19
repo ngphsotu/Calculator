@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "728bde58beec53ba22dd3841e93f44bd"
+build_time: [1626585535, 177280000]
+inputs:
+  "/Users/tung/OneDrive/Documents/DATA_OneDrive/P/Projects/flutter_application_calculator/macos/Runner/MainFlutterWindow.swift": [1625178393, 0]
+  "/Users/tung/OneDrive/Documents/DATA_OneDrive/P/Projects/flutter_application_calculator/macos/Runner/AppDelegate.swift": [1625178393, 0]
+  "/Users/tung/OneDrive/Documents/DATA_OneDrive/P/Projects/flutter_application_calculator/macos/Flutter/GeneratedPluginRegistrant.swift": [1626585520, 635447803]
